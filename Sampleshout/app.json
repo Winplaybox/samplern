@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "w3tuts",
-    "slug": "w3onlinemobiletuts",
+    "name": "React native project",
+    "slug": "reactnative",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -10,9 +10,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon1.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splashscreen.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,12 +23,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.wpb.w3tuts"
-    },
-    "android":{
-      "versionCode": 1.0,
-      "package": "com.wpb.w3tuts"
+      "supportsTablet": true
     }
   }
 }
